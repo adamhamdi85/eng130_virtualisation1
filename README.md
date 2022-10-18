@@ -44,3 +44,14 @@ head -3 test.txt - first 3 lines
 tail -10 test.txt - last 3 lines
 tails test.txt - last 10 lines
 tails -1 test.txt - last line
+
+Task
+What is virtualisation & benefits of it?
+Virtualization relies on software to simulate hardware functionality and create a virtual computer system. This enables IT organizations to run more than one virtual system – and multiple operating systems and applications – on a single server. The resulting benefits include economies of scale and greater efficiency.
+What is dev env?
+A development environment in software and web development is a workspace for developers to make changes without breaking anything in a live environment.
+What is vagrant?
+Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time
+What is a virtual box?
+VirtualBox is open-source software for virtualizing the x86 computing architecture. It acts as a hypervisor, creating a VM (virtual machine) where the user can run another OS (operating system).
+
