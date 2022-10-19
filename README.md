@@ -34,6 +34,8 @@
 - `ps aux` short list by name
 - how to create / run a process in the background and foreground, create / run a process in both areas
 - kill the process you created
+
+#### Installation of nginx:
 - install `nginx` in our VM
 - create a `private-network between local host and VM
 - allocate an IP address
