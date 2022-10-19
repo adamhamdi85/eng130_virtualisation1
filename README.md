@@ -29,6 +29,9 @@
 - print last 10 lines from test.txt
 - print last line from the test.txt
 - research how to use ` | pipe` & `grep` & `sort`
+- The Pipe is a command in Linux that lets you use two or more commands such that output of one command serves as input to the next.
+- Grep is an essential Linux and Unix command. It is used to search text and strings in a given file.
+- SORT command in Linux is used to arrange the record in a specific order according to the option used.
 - `ps aux` short list by name
 - how to create / run a process in the background and foreground, create / run a process in both areas
 - kill the process you created
