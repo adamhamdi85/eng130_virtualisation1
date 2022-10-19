@@ -4,7 +4,7 @@
 ### Vagrant
 
 
-## Important commands for Linux:
+#### Important commands for Linux:
 - check internet connectivity `sudo apt-get update`
 - Check internet connectivity `sudo apt-get update`
 - Run upgrade `sudeo apt-get upgrade -y`
