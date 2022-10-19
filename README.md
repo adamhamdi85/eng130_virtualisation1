@@ -4,11 +4,10 @@
 ### Vagrant
 
 
-
+## Important commands for Linux:
 - check internet connectivity `sudo apt-get update`
 - Check internet connectivity `sudo apt-get update`
-
-#- Run upgrade `sudeo apt-get upgrade -y`
+- Run upgrade `sudeo apt-get upgrade -y`
 - Where am i `pwd` give you your current location
 -whoami `uname` or `uname -a`
 - how to create a file in linux `touch filename`
